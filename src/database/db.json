@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Shivani Sharma",
+      "username": "shivani_059",
+      "email": "shivani.sharma80779456@gmail.com",
+      "phone": "8077782542",
+      "id": 10
+    },
+    {
+      "name": "Shikha",
+      "username": "shikha_059",
+      "email": "shikha.sharma80777@gmail.com",
+      "phone": "01234567890",
+      "id": 11
+    },
+    {
+      "name": "shivani",
+      "username": "shivani_059",
+      "email": "shikha.sharma80777@gmail.com",
+      "phone": "01234567890",
+      "id": 12
+    }
+  ]
+}
